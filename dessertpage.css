@@ -1,0 +1,96 @@
+.Home {
+  font-size: 25px;
+  color: black ;
+  text-decoration: overline underline;
+  text-align: center;
+  text-align:center;
+  margin-top: 100px;
+  margin-right: 245px;
+}
+
+.container {
+  display: flex;
+}
+
+.Appetizers {
+  font-size: 25px;
+  color: black ;
+  text-decoration: underline overline;
+  margin-top: 100px;
+  margin-right: 245px;
+}
+
+.Appetizers:hover {
+  color: #4a915c
+}
+
+.Breakfeast {
+  font-size: 25px;
+  color: black ;
+  text-decoration: underline overline;
+  text-align: center;
+  text-align:center;
+  margin-top: 100px;
+  margin-right: 245px;
+}
+
+.Breakfeast:hover {
+  color: #4a915c
+}
+
+.Lunch {
+  font-size: 25px;
+  color: black ;
+  text-decoration: underline overline;
+  text-align: center;
+  text-align:center;
+  margin-right: 245px;
+  margin-top: 100px
+}
+
+.Lunch:hover {
+  color: #4a915c
+}
+
+.Dinner {
+  font-size: 25px;
+  color: black ;
+  text-decoration: underline overline;
+  text-align: center;
+  text-align:center;
+  margin-right: 245px;
+  margin-top: 100px
+}
+
+.Dinner:hover {
+  color: #4a915c
+}
+
+.Dessert {
+  font-size: 25px;
+  color: black ;
+  text-decoration: underline overline;
+  text-align: center;
+  text-align:center;
+  margin-top: 100px;
+}
+
+.Dessert:hover {
+  color: #4a915c
+}
+
+.pancakephoto {
+  margin-top: 10px;
+  margin-left: 400px;
+}
+
+.cookiepic {
+  margin-left: 600px;
+  margin-top: 100px;
+}
+
+.cookiestitle {
+  margin-left: 565px;
+  font-size: 25px;
+  color: black;
+}
